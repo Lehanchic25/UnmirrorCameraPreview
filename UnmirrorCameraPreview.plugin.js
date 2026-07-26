@@ -5,7 +5,7 @@
  * @version 1.0.0
  * @source https://github.com/Lehanchic25/UnmirrorCameraPreview
  * @website https://github.com/Lehanchic25/UnmirrorCameraPreview
- * @updateUrl https://github.com/Lehanchic25/UnmirrorCameraPreview/blob/main/UnmirrorCameraPreview.plugin.js
+ * @updateUrl https://raw.githubusercontent.com/Lehanchic25/UnmirrorCameraPreview/refs/heads/main/UnmirrorCameraPreview.plugin.js
  */
 
 //Coder is from Russia, so all of the comments on Russian language
